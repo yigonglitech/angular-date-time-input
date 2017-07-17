@@ -1,11 +1,11 @@
 {
-  "name": "angular-date-time-input",
-  "version": "1.2.1",
+  "name": "bkm-angular-date-time-input",
+  "version": "1.2.3",
   "homepage": "https://github.com/dalelotts/angular-date-time-input",
   "authors": [
     "dalelotts"
   ],
-  "description": "angular-date-time-input",
+  "description": "bkm-angular-date-time-input",
   "license": "MIT",
   "ignore": [
     "**/.*",
